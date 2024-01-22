@@ -1,1 +1,1 @@
-invariant testing -- foundry
+invariant testing -- by rareskills
