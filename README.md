@@ -1,1 +1,1 @@
-invariant testing -- by rareskills
+ testing -- 
